@@ -1,1 +1,2 @@
-# Arrays In Java
+# Arrays In 
+## Arrays are collection of similar type object
