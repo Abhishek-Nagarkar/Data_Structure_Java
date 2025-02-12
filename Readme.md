@@ -1,2 +1,2 @@
-# Arrays In 
-## Arrays are collection of similar type object
+# Arrays In Java 
+- Go through ArraysIntro.java
